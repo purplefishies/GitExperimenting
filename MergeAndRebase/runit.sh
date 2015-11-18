@@ -64,3 +64,6 @@ git log --graph --oneline --decorate
 # This example allows us to get the main branch fixes...useful
 # when you need to adjust to what has been going on in main
 #
+
+echo -ne "\n\n Test\n" >> chapter_8.txt
+echo -ne "\n\nChapter 8 \nNot written\n" >> book.txt  
